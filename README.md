@@ -1,7 +1,7 @@
 # ArgentinaPrograma4.0
 
 
-#### FULL STACK JUNIOR
+### FULL STACK JUNIOR
 Plan nacional, federal e inclusivo de formación en programación y software.
 El programa es impulsado por el Ministerio de Economía de la Nación con apoyo de un consejo consultivo especializado.
 
@@ -14,23 +14,50 @@ Dictado por la corporación Egg .
 #
 
 
-En este repositorio vas a poder encontrar todos los ejercicios realizados mediante la cursada FULL STACK Junior por la corporación educativa Egg, quien
+En este repositorio vas a poder encontrar todos los ejercicios realizados mediante la cursada Full Stack Developer Junior por la corporación educativa Egg, quien
 imparte el curso por medio de metodologia cooperativa y sincronica.
 
 Los ejercicios realizados son subidos a medida que se va completando el curso.
 
 #
 
-#### ROADMAP:
+#### // ROADMAP:
 
-1- GIT y GITHUB
+    1 ─ PROGRAMACION DESDE CERO
 
-2- BACKEND (JAVA)
+        └ PSeInt
+        └ Lógica
 
-3- BACKEND (JAVA) 2
 
-4- BASE DE DATOS (JAVA)
+    2 ─ BACKEND (JAVA) 1
 
-5- FRONTEND (HTML - CSS - JS)
+        └ GIT
+        └ Java
+        └ POO
 
-6- FULL STACK (BACK AND FRONT)
+    3 ─ BACKEND (JAVA) 2
+
+        └ Relaciones
+        └ Herencia
+        └ Excepciones
+
+    4 ─ BASE DE DATOS (SQL)
+
+        └ MySQL
+        └ JPA
+        └ JDBC
+
+    5 ─ FRONTEND
+
+        └ HTML
+        └ CSS
+
+    6 ─ FULL STACK 
+
+        └ Spring
+
+    7 ─ PROYECTO INTEGRADOR
+
+        └ Portfolio
+
+   
